@@ -4,44 +4,44 @@
 Welcome to my GitHub profile! I'm thrilled to have you here. I am a Full Stack Developer and Programmer with expertise in a wide range of technologies. From crafting beautiful and responsive user interfaces with HTML, CSS, and JavaScript, to building robust back-end systems using Node.js, Express.js, and MongoDB, I love working on all aspects of web and mobile development. In addition, I am well-versed in React and React Native for creating scalable and efficient applications.
 ## 🛠 Skills
 
-💪 Skills
+**💪 Skills**
 In the vast realm of technology, I have honed my skills to create impactful solutions. Here are the tools I wield with expertise:
 
-Front-end Development:            
-🌐 HTML: Crafting the foundation of captivating user interfaces, bringing designs to life.
+**Front-end Development:**            
+🌐 **HTML:** Crafting the foundation of captivating user interfaces, bringing designs to life.
 
-🎨 CSS: Styling and beautifying websites, ensuring an exceptional visual experience for users.
+🎨 **CSS:** Styling and beautifying websites, ensuring an exceptional visual experience for users.
 
-☁️ JavaScript: Unleashing the power of interactivity and responsiveness with dynamic scripting.
+☁️ **JavaScript:** Unleashing the power of interactivity and responsiveness with dynamic scripting.
 
-⚛️ React: Building scalable and immersive single-page applications, delivering seamless user experiences.
+⚛️ **React:** Building scalable and immersive single-page applications, delivering seamless user experiences.
 
-📱 React Native: Crafting cross-platform mobile applications with native-like performance and functionality.
+📱 **React Native:** Crafting cross-platform mobile applications with native-like performance and functionality.
 
-🖌️ EJS: Leveraging the power of EJS (Embedded JavaScript) for server-side templating and dynamic HTML generation.
+🖌️ **EJS:** Leveraging the power of EJS (Embedded JavaScript) for server-side templating and dynamic HTML generation.
 
-Back-end Development:               
-🔧 Node.js: Developing fast and scalable back-end solutions, unleashing the potential of JavaScript beyond the browser.
+**Back-end Development:**               
+🔧 **Node.js**: Developing fast and scalable back-end solutions, unleashing the potential of JavaScript beyond the browser.
 
-🌐 Express.js: Building robust and efficient web applications and APIs, making server-side development a breeze.
+🌐 **Express.js**: Building robust and efficient web applications and APIs, making server-side development a breeze.
 
-🗄️ MongoDB: Leveraging the flexibility of NoSQL databases for efficient data storage and retrieval.
+🗄️ **MongoDB:** Leveraging the flexibility of NoSQL databases for efficient data storage and retrieval.
 
-📊 SQL: Designing and managing relational databases, ensuring data integrity and optimal querying.
+📊 **SQL:** Designing and managing relational databases, ensuring data integrity and optimal querying.
 
-Programming Languages:                 
-☕️ Java: Harnessing the power of the Java ecosystem to build robust and enterprise-grade applications.
+**Programming Languages:**                 
+☕️ **Java:** Harnessing the power of the Java ecosystem to build robust and enterprise-grade applications.
 
-🐍 Python: Utilizing the versatility of Python for various applications, including scripting, web development, and data analysis.
+🐍 **Python:** Utilizing the versatility of Python for various applications, including scripting, web development, and data analysis.
 
-🌐 C: Employing the power of C for system-level programming and building efficient software solutions.
+🌐 **C:** Employing the power of C for system-level programming and building efficient software solutions.
 
-🖥️ C++: Leveraging the object-oriented paradigm of C++ for high-performance applications and systems development.
+🖥️ **C++:** Leveraging the object-oriented paradigm of C++ for high-performance applications and systems development.
 
-Design and Prototyping Tools:          
-🎨 Canva: Creating stunning visuals, graphics, and designs with ease, making an impact with every pixel.
+**Design and Prototyping Tools:**          
+🎨 **Canva:** Creating stunning visuals, graphics, and designs with ease, making an impact with every pixel.
 
-🖌️ Figma: Collaborating and designing user interfaces and prototypes, transforming ideas into elegant, user-centric experiences.
+🖌️ **Figma:** Collaborating and designing user interfaces and prototypes, transforming ideas into elegant, user-centric experiences.
 
 Additional Tools and Technologies:      
 🐳 Docker: Creating lightweight and scalable containers to streamline application deployment and management.
