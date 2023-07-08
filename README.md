@@ -110,6 +110,6 @@ Let's embark on an incredible coding journey! Happy coding! 🚀
 
 ## 🚀 About Me
 
-🎯 Goal
+## 🎯 Goal
 My goal is to make a positive impact through technology. I aim to build applications that empower users, solve real-world problems, and create memorable experiences. I am constantly seeking new challenges and opportunities to grow as a developer and leave a lasting mark in the tech industry.
 
