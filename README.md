@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pathak</h1>
 <hr>
-## 💫 About Me:
+# 💫 About Me:
 <br>Welcome to my GitHub profile! I'm an enthusiastic Full Stack Developer with a passion for creating exceptional web and mobile applications. My skills span various technologies, allowing me to:<br><br>⭐ Craft stunning and responsive user interfaces (HTML, CSS, and JavaScript).<br>⭐ Build robust back-end systems (Node.js, Express.js, MongoDB).<br>⭐ Develop scalable applications using React and React Native.<br>Join me on this coding journey! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpathak77&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpathak77" /> </p>
@@ -33,7 +33,7 @@
 <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GauravPathak77&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
