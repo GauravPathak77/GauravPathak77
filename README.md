@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Full Stack Developer with a pa
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpathak77&" alt="gauravpathak77" /></p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GauravPathak77&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -36,4 +36,3 @@ Welcome to my GitHub profile! I'm an enthusiastic Full Stack Developer with a pa
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GauravPathak77&icon=7&color=7)](https://visitcount.itsvg.in)
