@@ -29,8 +29,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpathak77&" alt="gauravpathak77" /></p>
 <br><hr>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GauravPathak77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
