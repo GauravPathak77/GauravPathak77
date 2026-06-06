@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Pathak</h1>
+<h1 align="center">Hi 👋, I'm Gaurrav Pathak</h1>
 <p align="center">
   <a href="https://linkedin.com/in/gauravpathak77"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.leetcode.com/rocking_coder"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
